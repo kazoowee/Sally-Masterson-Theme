@@ -8,7 +8,7 @@ function wptuts_scripts_basic()
   wp_register_script( 'photoswipe-ui', get_template_directory_uri() . 'js/photoswipe-ui-default.min.js' );
   wp_register_script( 'custom-scrollbar', get_template_directory_uri() . 'js/jquery.mCustomScrollbar.concat.min.js' );
   wp_register_script( 'sketch', get_template_directory_uri() . 'js/sketch.js' );
-  wp_register_script( 'script', get_template_directory_uri() . 'js/script.js' );
+  wp_register_script( 'script', get_template_directory_uri() . 'js/script_dos.js' );
 }
 add_action( 'wp_enqueue_scripts', 'wptuts_scripts_basic' );
 ?>
