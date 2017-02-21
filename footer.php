@@ -1,3 +1,117 @@
+
+<!DOCTYPE html>
+
+<html lang="en">
+    <head>
+      <meta charset="utf-8">
+      <title>Sally Masterson</title>
+      <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0">
+
+      <!-- Favicon ================== -->
+      <!-- Standard -->
+      <link rel="shortcut icon" href="img/favicon-144.png">
+      <!-- Retina iPad Touch Icon-->
+      <link rel="apple-touch-icon" sizes="144x144" href="img/favicon-144.png">
+      <!-- Retina iPhone Touch Icon-->
+      <link rel="apple-touch-icon" sizes="114x114" href="img/favicon-114.png">
+      <!-- Standard iPad Touch Icon-->
+      <link rel="apple-touch-icon" sizes="72x72" href="img/favicon-72.png">
+      <!-- Standard iPhone Touch Icon-->
+      <link rel="apple-touch-icon" sizes="57x57" href="img/favicon-57.png">
+
+      <!--  Resources style ================== -->
+      <link href="http://194.36.163.54/~sallymasterson/wp-content/themes/Sally-Masterson-Theme/style.css" rel="stylesheet" type="text/css" media="all"/>
+      <link rel='dns-prefetch' href='//s.w.org' />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/194.36.163.54\/~sallymasterson\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.7.2"}};
+			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),!(j.toDataURL().length<3e3)&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,65039,8205,55356,57096),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,55356,57096),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55357,56425,55356,57341,8205,55357,56507),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55357,56425,55356,57341,55357,56507),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='dashicons-css'  href='http://194.36.163.54/~sallymasterson/wp-includes/css/dashicons.min.css?ver=4.7.2' type='text/css' media='all' />
+<link rel='stylesheet' id='admin-bar-css'  href='http://194.36.163.54/~sallymasterson/wp-includes/css/admin-bar.min.css?ver=4.7.2' type='text/css' media='all' />
+<link rel='https://api.w.org/' href='http://194.36.163.54/~sallymasterson/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://194.36.163.54/~sallymasterson/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://194.36.163.54/~sallymasterson/wp-includes/wlwmanifest.xml" />
+<meta name="generator" content="WordPress 4.7.2" />
+<style type="text/css" media="print">#wpadminbar { display:none; }</style>
+<style type="text/css" media="screen">
+	html { margin-top: 32px !important; }
+	* html body { margin-top: 32px !important; }
+	@media screen and ( max-width: 782px ) {
+		html { margin-top: 46px !important; }
+		* html body { margin-top: 46px !important; }
+	}
+</style>
+    </head>
+    <body>
+      <section id="parent" class="animsition">
+
+        <div id="subscribe">
+          <div class="row border">
+            <div class="col-sm-9 col-xs-9">
+              <h2 class=""><strong>Sign up</strong> for <br> Our newletter</h2>
+            </div>
+            <div class="mail-icon">
+              <i class="ion-paper-airplane"></i>
+            </div>
+            <div class="col-sm-12 col-xs-12 mb50">
+              <h4 class="">New cases and investigations <br>settlement deadlines, and news<br> straight to your inbok.</h4>
+            </div>
+
+            <form
+            id="subscribe-form" class="col-sm-12"
+            action="http://coderare.us12.list-manage.com/subscribe/post-json?u=112a29375b248b89f47be54b7&amp;id=e46717ab68"
+            method="get">
+              <input type="email" name="EMAIL" class="input-email round" placeholder="Email Address">
+              <button type="submit" name="subscribe" class="submit btn-solid round input-submit">SUBSCRIBE</button>
+              <div id="subscribe-result">
+              </div>
+            </form>
+          </div>
+        </div>
+
+        <div id="leftSide" class="color">
+
+          <div id="container"></div>
+          <div id="home" class="center col-sm-8 col-sm-offset-2 col-xs-10 col-xs-offset-1">
+
+            <div class="h-content  text-center top-12">
+              <img src="img/logo.png" alt="logo" class="quick fadeIn align- relative mb30 main-logo" />
+
+              <h1 class="mid animated fadeInUp  fw700">Sally Masterson</h1>
+              <h4 class="mid animated fadeInUp fw700 mb20">Just another WordPress site</h4>
+
+
+              <div class="mt40 slow animated fadeInUp">
+                <a id="info" href="#info" class="btn-solid round">PORTFOLIO</a>
+                <div class="social_tab inline quick fadeIn">
+                  <ul class="social_icons">
+                    <li><a href="#"><i class="ti-facebook "></i></a></li>
+                    <li><a href="#"><i class="ti-twitter-alt "></i></a></li>
+                    <li><a href="#"><i class="ti-instagram "></i></a></li>
+                  </ul>
+                </div>
+              </div>
+
+              </div>
+            </div>
+
+
+        </div>
+test
 <div id="contact" class="row">
 
   <div class="mb20 col-sm-12">
@@ -132,8 +246,8 @@
 <script src="js/photoswipe.min.js"></script>
 <script src="js/photoswipe-ui-default.min.js"></script>
 <script src="js/jquery.mCustomScrollbar.concat.min.js"></script>
-<script src="js/sketch.js"></script>
-<script type="text/javascript">-->
+<script src="js/sketch.js"></script> -->
+<script type="text/javascript">
 // ----------------------------------------
 // Particle
 // ----------------------------------------
@@ -272,6 +386,7 @@ demo.spawn( touch.x, touch.y );
 }
 };
 </script>
-<script src="js/script.js"></script>
+<!--<script src="js/script.js"></script>-->
+<script><?php echo get_template_directory_uri() . '/js/script.js'?></script>
 </body>
 </html>
