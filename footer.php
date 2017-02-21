@@ -124,7 +124,7 @@
 </div>
 </div>
 
-<script src="js/jquery-1.11.3.min.js"></script>
+<!--<script src="js/jquery-1.11.3.min.js"></script>
 <script src="js/bootstrap.min.js"></script>
 <script src="js/animsition.min.js"></script>
 <script src="https://maps.googleapis.com/maps/api/js?sensor=false"></script>
@@ -133,7 +133,7 @@
 <script src="js/photoswipe-ui-default.min.js"></script>
 <script src="js/jquery.mCustomScrollbar.concat.min.js"></script>
 <script src="js/sketch.js"></script>
-<script type="text/javascript">
+<script type="text/javascript">-->
 // ----------------------------------------
 // Particle
 // ----------------------------------------
