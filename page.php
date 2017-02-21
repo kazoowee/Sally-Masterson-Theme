@@ -1,3 +1,4 @@
+<?php get_header(); ?>
 <div id="rightSide" class="visible">
 
   <div class="background-img-holder percent84">
@@ -88,3 +89,4 @@
 
       </div>
     </div>
+    <?php get_footer(); ?>
